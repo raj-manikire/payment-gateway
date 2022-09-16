@@ -1,0 +1,24 @@
+{
+  "name": "payment-gateway",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://174.141.231.46/~interndemo/Raj",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bootstrap": "^5.2.1",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.5.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "0.9.5",
+    "react-stripe-checkout": "^2.6.3",
+    "sweetalert2": "^11.4.32",
+    "sweetalert2-react-content": "^5.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
